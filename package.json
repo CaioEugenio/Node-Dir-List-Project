@@ -16,5 +16,8 @@
     "url": "https://github.com/CaioEugenio/Node-Dir-List-Project/issues"
   },
   "homepage": "https://github.com/CaioEugenio/Node-Dir-List-Project#readme",
-  "keywords": []
+  "keywords": [],
+  "bin": {
+    "nls": "index.js"
+  }
 }
